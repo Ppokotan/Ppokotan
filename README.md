@@ -1,6 +1,6 @@
 ![个人logo](https://github.com/user-attachments/assets/fa276abd-ac84-40d7-a69d-f362198400df)
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&pause=1000&color=FFB6C1&center=true&width=500&height=50&lines=%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E8%B5%B0%E5%BE%97%E5%A4%AA%E8%BF%9C%EF%BC%8C%E5%B0%B1%E5%BF%98%E8%AE%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%87%BA%E5%8F%91%E3%80%82" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&size=32&pause=1000&color=FFB6C1&center=true&width=500&height=50&lines=%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E8%B5%B0%E5%BE%97%E5%A4%AA%E8%BF%9C%EF%BC%8C%E5%B0%B1%E5%BF%98%E8%AE%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%87%BA%E5%8F%91%E3%80%82" alt="Typing SVG" />
 </div>
 
 ### 各个平台的账号 / Where to Follow
