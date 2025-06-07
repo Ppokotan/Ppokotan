@@ -5,6 +5,7 @@
   <img src="https://github.com/user-attachments/assets/e3c82836-c142-478f-828b-71025f0fe3cf" alt="时雨ink logo" style="width: 48%;"/>
 </div>
 
+> [!NOTE]\
 >关于“时雨ink”这个名字 / About the Name "Shigure Ink"  
 CN：  
 「时雨（しぐれ） → 墨水与灵感的骤雨」  
@@ -13,13 +14,18 @@ EN：
 "Shigure (しぐれ) → A sudden rain of ink and inspiration"  
 *Shigure (しぐれ) refers to the fleeting rain of inspiration in Japanese haiku.  
 
+> [!IMPORTANT]\
 > 关于头像  
 来自pixiv画师：（占位符，待补）  
 标题:（占位符，待补）  
 pid：（占位符，待补）  
-> [链接](pixiv.net/artworks/)  
+> [链接](pixiv.net/artworks/)
+
+> [!WARNING]\
+> “波可糖”、“Pokotan”、“ぽこたん”、“ぽこたん_波可糖”、“时雨ink”、“Shigure Ink”及其相关标识均为注册商标，未经允许，禁止使用！
+
 ## 关于我 / About Me
-（占位符，待补）
+
 ### 自我介绍 / Self introduction
 （占位符，待补）
 ### 各个平台的账号 / Where to Follow
