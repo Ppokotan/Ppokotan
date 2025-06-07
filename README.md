@@ -5,9 +5,19 @@
   <img src="https://github.com/user-attachments/assets/e3c82836-c142-478f-828b-71025f0fe3cf" alt="时雨ink logo" style="width: 48%;"/>
 </div>
 
-> 关于头像
+>关于“时雨ink”这个名字 / About the Name "Shigure Ink"  
+CN：  
+「时雨（しぐれ） → 墨水与灵感的骤雨」  
+*时雨（しぐれ）是日本俳句中转瞬即逝的灵感之雨  
+EN：  
+"Shigure (しぐれ) → A sudden rain of ink and inspiration"  
+*Shigure (しぐれ) refers to the fleeting rain of inspiration in Japanese haiku.  
 
-来自pixiv画师：（占位符，待补） 标题:（占位符，待补） pid：（占位符，待补）[链接](pixiv.net/artworks/)
+> 关于头像  
+来自pixiv画师：（占位符，待补）  
+标题:（占位符，待补）  
+pid：（占位符，待补）  
+> [链接](pixiv.net/artworks/)  
 ## 关于我 / About Me
 （占位符，待补）
 ### 自我介绍 / Self introduction
