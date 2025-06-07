@@ -31,6 +31,8 @@ pid:[77884316](pixiv.net/artworks/77884316_p0)
 > “波可糖”、“Pokotan”、“ぽこたん”、“ぽこたん_波可糖”、“时雨ink”、“Shigure Ink”及其相关标识均为注册商标，未经允许，禁止使用！\
 > "波可糖", "Pokotan", "ぽこたん", "ぽこたん_波可糖", "时雨ink", "Shigure Ink", and all related logos are registered trademarks. Unauthorized use is strictly prohibited！
 
+# 个人博客 / Blog
+https://pokotan.ink <sup>还没建站，但是域名已经是我的了 / Blog is empty！</sup>
 ## 关于我 / About Me
 
 ### 自我介绍 / Self introduction
