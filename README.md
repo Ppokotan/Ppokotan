@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/fa276abd-ac84-40d7-a69d-f362198400df" alt="个人logo" style="width: 48%;"/>
-  <img src="https://github.com/user-attachments/assets/c984b609-c106-4199-b2b3-1d158a561c24" alt="元气绮梦logo" style="width: 48%;"/>
+  <img src="https://github.com/user-attachments/assets/e3c82836-c142-478f-828b-71025f0fe3cf" alt="时雨ink logo" style="width: 48%;"/>
 </div>
 
 > 关于头像
