@@ -6,10 +6,12 @@
 </div>
 
 > 关于头像
-> 
-## 关于我 / About Me
-### 自我介绍 / Self introduction
 
+来自pixiv画师：（占位符，待补） 标题:（占位符，待补） pid：（占位符，待补）[链接](pixiv.net/artworks/)
+## 关于我 / About Me
+（占位符，待补）
+### 自我介绍 / Self introduction
+（占位符，待补）
 ### 各个平台的账号 / Where to Follow
 [![Telegram](https://img.shields.io/badge/Pokotan-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/lamb2010)
 [![Facebook](https://img.shields.io/badge/Pokotan-0866FF?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/0)   
