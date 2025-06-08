@@ -39,7 +39,7 @@ https://pokotan.ink
 ### 自我介绍 / Self introduction
 （占位符，待补）
 ### 各个平台的账号 / Where to Find Me
-[![Telegram](https://img.shields.io/badge/Pokotan2010-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Pokotan2010)
+[![Telegram](https://img.shields.io/badge/ぽこたん_波可糖-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Pokotan2010)
 [![Telegram 频道](https://img.shields.io/badge/时雨ink-26a5e4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/+cuv4rms7VQlmZTM1)
 [![Facebook](https://img.shields.io/badge/张子靖-0866FF?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100085386486193&mibextid=rS40aB7S9Ucbxw6v)   
 [![微博](https://img.shields.io/badge/lamb%E4%B8%8D%E9%B8%BD-orange?style=flat-square&logo=Sina%20Weibo&logoColor=ffffff)](https://weibo.com/u/7497771595)
