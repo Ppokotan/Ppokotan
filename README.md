@@ -1,5 +1,3 @@
-![头像](https://github.com/user-attachments/assets/72c3ce49-1667-439c-bc08-1d7da0dda716)
-
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/fa276abd-ac84-40d7-a69d-f362198400df" alt="个人logo" style="width: 48%;"/>
   <img src="https://github.com/user-attachments/assets/e3c82836-c142-478f-828b-71025f0fe3cf" alt="时雨ink logo" style="width: 48%;"/>
@@ -15,17 +13,17 @@
 *时雨（しぐれ）是日本俳句中转瞬即逝的灵感之雨\
 About the Name "Shigure Ink"\
 "Shigure (しぐれ) → A sudden rain of ink and inspiration"\
-*Shigure (しぐれ) refers to the fleeting rain of inspiration in Japanese haiku.
+*Shigure (しぐれ) refers to the fleeting rain of inspiration in Japanese haiku.\
 
 > [!IMPORTANT]\
-> 关于头像  
-来自pixiv画师：[せんちゃ](www.pixiv.net/users/3388329)  
-标题:見つめる  
-pid：[77884316](pixiv.net/artworks/77884316_p0)\
-> About the avatar  
-Artist from pixiv：[せんちゃ](www.pixiv.net/users/3388329)  
-Title:  見つめる  
-pid:[77884316](pixiv.net/artworks/77884316_p0)
+> 关于头像\
+来自pixiv画师：[MISSILE228](www.pixiv.net/users/429077)\
+标题:召し上がれ　下着差分とツイッターまとめ  
+pid:[104073231](pixiv.net/artworks/104073231_p8)\
+> About the avatar\
+Artist from pixiv：[MISSILE228](www.pixiv.net/users/429077)\
+Title:召し上がれ　下着差分とツイッターまとめ\
+pid:[104073231](pixiv.net/artworks/104073231_p8)\
 
 > [!WARNING]\
 > “波可糖”、“Pokotan”、“ぽこたん”、“ぽこたん_波可糖”、“时雨ink”、“Shigure Ink”及其相关标识均为注册商标，未经允许，禁止使用！\
