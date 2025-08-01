@@ -23,7 +23,7 @@ pid:[104073231](pixiv.net/artworks/104073231_p8)\
 > About the avatar\
 Artist from pixiv：[MISSILE228](www.pixiv.net/users/429077)\
 Title:召し上がれ　下着差分とツイッターまとめ\
-pid:[104073231](pixiv.net/artworks/104073231_p8)\
+pid:[104073231](pixiv.net/artworks/104073231_p8)
 
 > [!WARNING]\
 > “波可糖”、“Pokotan”、“ぽこたん”、“ぽこたん_波可糖”、“时雨ink”、“Shigure Ink”及其相关标识均为注册商标，未经允许，禁止使用！\
