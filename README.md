@@ -18,11 +18,11 @@ About the Name "Shigure Ink"\
 > [!IMPORTANT]\
 > 关于头像\
 来自pixiv画师：[MISSILE228](www.pixiv.net/users/429077)\
-标题:召し上がれ　下着差分とツイッターまとめ  
+标题:召し上がれ　下着差分とツイッターまとめ(p_8)  
 pid:[104073231](pixiv.net/artworks/104073231_p8)\
 > About the avatar\
 Artist from pixiv：[MISSILE228](www.pixiv.net/users/429077)\
-Title:召し上がれ　下着差分とツイッターまとめ\
+Title:召し上がれ　下着差分とツイッターまとめ(p_8)\
 pid:[104073231](pixiv.net/artworks/104073231_p8)
 
 > [!WARNING]\
