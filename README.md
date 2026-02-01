@@ -26,8 +26,8 @@ Title:召し上がれ　下着差分とツイッターまとめ(p_8)\
 pid:[104073231](pixiv.net/artworks/104073231_p8)
 
 > [!WARNING]\
-> “波可糖”、“Pokotan”、“ぽこたん”、“ぽこたん_波可糖”、“时雨ink”、“Shigure Ink”及其相关标识均为注册商标，未经允许，禁止使用！\
-> "波可糖", "Pokotan", "ぽこたん", "ぽこたん_波可糖", "时雨ink", "Shigure Ink", and all related logos are registered trademarks. Unauthorized use is strictly prohibited！
+> “波可糖”、“Pokotan”、“ぽこたん”、“ぽこたん_波可糖”、“时雨ink”、“ShigureInk”及其相关标识均为注册商标，未经允许，禁止使用！\
+> "波可糖", "Pokotan", "ぽこたん", "ぽこたん_波可糖", "时雨ink", "ShigureInk", and all related logos are registered trademarks. Unauthorized use is strictly prohibited！
 
 # 个人博客 / Blog
 https://pokotan.ink
