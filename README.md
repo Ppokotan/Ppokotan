@@ -1,8 +1,3 @@
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/fa276abd-ac84-40d7-a69d-f362198400df" alt="个人logo" style="width: 48%;"/>
-  <img src="https://github.com/user-attachments/assets/c61974e7-499d-4f86-9253-5dfc45e9572d" alt="时雨ink logo" style="width: 48%;"/>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+GB&size=28&pause=1000&color=FFB6C1&center=true&width=550&height=60&lines=%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E8%B5%B0%E5%BE%97%E5%A4%AA%E8%BF%9C%EF%BC%8C%E5%B0%B1%E5%BF%98%E8%AE%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%87%BA%E5%8F%91%E3%80%82" alt="Typing SVG" />
 </div>
